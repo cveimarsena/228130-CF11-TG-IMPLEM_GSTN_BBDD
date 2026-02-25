@@ -10,7 +10,9 @@
       .col-lg-1.col-7.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/tema4/1.svg', alt='')
       .col-lg-11
         p El uso de bitácoras en ambientes de seguridad ha sido fundamental para analizar las brechas de la misma, a continuación, se amplía la información sobre estas:
-    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta ")
+    
+
+    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Generalidades")
         .col-lg-7.mb-4.mb-md-0
           p Debido a los ataques que se presentan diariamente en las redes, si no se tiene una visión de lo que está sucediendo en la red o en los equipos, se podría generar una falla o pérdidas de información masiva. Por esta razón, una opción es la utilización de bitácoras, ya que mostrará eventos en donde se podrán gestionar los dispositivos conectados. Una de las herramientas que puede ayudar en este propósito es el #[em  Active Directory de Windows.]
