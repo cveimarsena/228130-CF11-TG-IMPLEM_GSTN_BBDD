@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La imagen muestra un esquema sobre la gestión de servidores en el contexto de la ciberseguridad. Relaciona la seguridad en la nube y el uso de VPN con amenazas como delitos informáticos, ataques y ciberterrorismo. Además, destaca medidas clave como redundancia, autenticación, cifrado, gestión de clientes, bitácoras y buenas prácticas para garantizar la protección y continuidad de los servicios.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
